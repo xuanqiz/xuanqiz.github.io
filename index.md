@@ -13,5 +13,6 @@ Hello World
 **what do you think** _this blog_ `under construction`
 
 [Link](test.md)
+[Link](test2.md)
 
 ![Image](src)
